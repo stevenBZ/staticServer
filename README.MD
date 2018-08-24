@@ -437,7 +437,7 @@ module.exports = Server;
 
    通过以上的操作我们一个静态文件服务器就已经实现了哦！有不好和错误的地方，请大家多多指教。
 
-   [完整代码GitHub地址](https://github.com/RanCW/staticServer)
+   [完整代码GitHub地址](https://github.com/stevenBZ/staticServer)
 
    参考文献：
    * [ndejs中文网](http://nodejs.cn/)
